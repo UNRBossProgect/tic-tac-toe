@@ -42,7 +42,7 @@ bool win(char isxo)
 		xcount2 = 0;
 	}
 	//check x,y
-	if(board[0][0] == isxo && board[1][1] == isxo && board[2][2])
+	if(board[0][0] == isxo && board[1][1] == isxo && board[2][2] == isxo)
 	{
 		return true;
 	}
