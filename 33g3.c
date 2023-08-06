@@ -65,6 +65,7 @@ int main(void)
 	while(end == false)
 	{
 		swh;
+		printf(\n);
 		enter:printf("%c-x: ", isxy);
 		scanf("%d", &nx);
 		printf("\n");
@@ -77,7 +78,7 @@ int main(void)
 		}
 		else
 		{
-			printf("Legacy rules!\n");
+			printf("Violation!\n");
 			goto enter;
 		}
 		printf(" 123\n");
