@@ -65,7 +65,7 @@ int main(void)
 	while(end == false)
 	{
 		swh;
-		printf(\n);
+		printf("\n");
 		enter:printf("%c-x: ", isxy);
 		scanf("%d", &nx);
 		printf("\n");
